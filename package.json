@@ -1,0 +1,22 @@
+{
+  "name": "is-khatija",
+  "version": "1.0.0",
+  "description": "is khatija string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhatijaHusain/kh.npm.shared.modules.git"
+  },
+  "keywords": [
+    "khatija"
+  ],
+  "author": "khatijahusain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhatijaHusain/kh.npm.shared.modules/issues"
+  },
+  "homepage": "https://github.com/KhatijaHusain/kh.npm.shared.modules#readme"
+}
